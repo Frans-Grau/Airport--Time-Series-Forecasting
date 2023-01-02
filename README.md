@@ -5,7 +5,7 @@ This dataset is a subset of a bigger one that contains daily airline information
 
 For the purposes of this project, the data was gathered from a Kaggle repository (https://www.kaggle.com/datasets/sherrytp/airline-delay-analysis) and limited to three years (2016,2017,2018) for the following  airports:
 - Hartsfield-Jackson Atlanta International Airport - ATL
-- Welcome to Los Angeles International Airport - LAX
+- Los Angeles International Airport - LAX
 - John F. Kennedy International Airport - JFK
 
 ## Dataset overview: 
