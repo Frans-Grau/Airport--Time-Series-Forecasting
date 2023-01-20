@@ -76,3 +76,21 @@ def render_page_content(pathname):
 ### Run the app
 if __name__ == "__main__":
     app.run_server(debug=True)
+
+
+# def render_page_content(pathname):
+#     if pathname == "/":
+#         return page_container
+#     elif pathname == "/page2":
+#         return page_container
+#     elif pathname == "/page3":
+#         return page_container
+
+#     return html.Div(
+#         [
+#             html.H1("404: Not found", className="text-danger"),
+#             html.Hr(),
+#             html.P(f"The pathname {pathname} was not recognised..."),
+#         ],
+#         className="p-3 bg-light rounded-3",
+#     )

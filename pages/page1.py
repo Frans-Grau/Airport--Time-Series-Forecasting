@@ -77,10 +77,10 @@ layout = html.Div(
     Input('demo-dropdown', 'value'))
 def update_figure1(selected_airport):
     df_filt = df_all[df_all['ORIGIN'] ==selected_airport]
-    data = [df_filt[(df_filt['DEP_DELAY'] > 0) & (df_filt['DEP_DELAY'] < 30)]['DEP_DELAY'].count(), df_filt[(df_filt['DEP_DELAY'] > 0) & (df_filt['DEP_DELAY'] > 30)]['DEP_DELAY'].count(),
-    df_filt[(df_filt['DEP_DELAY'] < 0) & (df_filt['DEP_DELAY'] < -30)]['DEP_DELAY'].count(), df_filt[(df_filt['DEP_DELAY'] < 0) & (df_filt['DEP_DELAY'] > -30)]['DEP_DELAY'].count(),
+    data = [df_filt[(df_filt['DEP_DELAY'] > 0) & (df_filt['DEP_DELAY'] < 15)]['DEP_DELAY'].count(), df_filt[(df_filt['DEP_DELAY'] > 0) & (df_filt['DEP_DELAY'] > 15)]['DEP_DELAY'].count(),
+    df_filt[(df_filt['DEP_DELAY'] < 0) & (df_filt['DEP_DELAY'] < -15)]['DEP_DELAY'].count(), df_filt[(df_filt['DEP_DELAY'] < 0) & (df_filt['DEP_DELAY'] > -15)]['DEP_DELAY'].count(),
     df_filt[df_filt['DEP_DELAY'] == 0]['DEP_DELAY'].count()]
-    labels = ['Delay > 30 min', 'Delay < 30 min', 'Leaving earlier > 30 min', 'Leaving earlier < 30 min', 'On time']
+    labels = ['Delay > 15 min', 'Delay < 15 min', 'Leaving earlier > 15 min', 'Leaving earlier < 15 min', 'On time']
     fig = px.pie(data, values = data, names=labels,color_discrete_sequence=["blue", "red", "goldenrod","green", "magenta"] ,hole=.5)
     fig.update_layout(title="Airport Performance")
     return fig
