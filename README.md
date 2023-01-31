@@ -31,3 +31,7 @@ This dataset has a total of 2.080.873 entries and 12 columns.
 <img width="944" alt="Captura de pantalla 2023-01-31 193646" src="https://user-images.githubusercontent.com/108680051/215852016-f0108f44-c0df-4f64-bd8f-7f4bd95374b7.png">
 
 #
+<img width="902" alt="Captura de pantalla 2023-01-31 193837" src="https://user-images.githubusercontent.com/108680051/215852477-7a2bbae6-40ed-4854-82ce-11ef33fcb42d.png">
+
+#
+
