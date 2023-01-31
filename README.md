@@ -24,5 +24,10 @@ This dataset has a total of 2.080.873 entries and 12 columns.
 - AIRLINE: Airline commercial name
 
 ## Dash App Overview
-#
+
 <img width="899" alt="Captura de pantalla 2023-01-31 193342" src="https://user-images.githubusercontent.com/108680051/215851239-1b993028-576f-44ea-9158-0251e4c2b2f4.png">
+
+#
+<img width="944" alt="Captura de pantalla 2023-01-31 193646" src="https://user-images.githubusercontent.com/108680051/215852016-f0108f44-c0df-4f64-bd8f-7f4bd95374b7.png">
+
+#
