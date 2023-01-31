@@ -22,3 +22,7 @@ This dataset has a total of 2.080.873 entries and 12 columns.
 - AIR_TIME: Flight time    
 - DISTANCE: Miles covered    
 - AIRLINE: Airline commercial name
+
+## Dash App Overview
+#
+<img width="899" alt="Captura de pantalla 2023-01-31 193342" src="https://user-images.githubusercontent.com/108680051/215851239-1b993028-576f-44ea-9158-0251e4c2b2f4.png">
