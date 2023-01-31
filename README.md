@@ -25,17 +25,14 @@ This dataset has a total of 2.080.873 entries and 12 columns.
 
 ## Dash App Overview
 
-<img width="899" alt="Captura de pantalla 2023-01-31 193342" src="https://user-images.githubusercontent.com/108680051/215851239-1b993028-576f-44ea-9158-0251e4c2b2f4.png">
+<img width="902" alt="Captura de pantalla 2023-01-31 193342" src="https://user-images.githubusercontent.com/108680051/215851239-1b993028-576f-44ea-9158-0251e4c2b2f4.png">
 
 #
-<img width="944" alt="Captura de pantalla 2023-01-31 193646" src="https://user-images.githubusercontent.com/108680051/215852016-f0108f44-c0df-4f64-bd8f-7f4bd95374b7.png">
+<img width="902" alt="Captura de pantalla 2023-01-31 193646" src="https://user-images.githubusercontent.com/108680051/215852016-f0108f44-c0df-4f64-bd8f-7f4bd95374b7.png">
 
 #
 <img width="902" alt="Captura de pantalla 2023-01-31 193837" src="https://user-images.githubusercontent.com/108680051/215852477-7a2bbae6-40ed-4854-82ce-11ef33fcb42d.png">
 
 #
-<img width="918" alt="Captura de pantalla 2023-01-31 193917" src="https://user-images.githubusercontent.com/108680051/215852569-da7062f4-06ee-4bae-b97d-f33d7cbae6c4.png">
-
-#
-<img width="1074" alt="Captura de pantalla 2023-01-31 194136" src="https://user-images.githubusercontent.com/108680051/215853003-81c67cd2-309a-4e58-af73-805d66d6a4a8.png">
+<img width="902" alt="Captura de pantalla 2023-01-31 194136" src="https://user-images.githubusercontent.com/108680051/215853003-81c67cd2-309a-4e58-af73-805d66d6a4a8.png">
 
