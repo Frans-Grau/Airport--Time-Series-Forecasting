@@ -103,7 +103,7 @@ def update_figure2(selected_airport):
     Input('demo-dropdown', 'value'))
 def update_figure4(selected_airport):
     rest_5 = restaurants[restaurants['Airport']==selected_airport]['Description'].value_counts()
-    fig = px.pie(data_frame=rest_5.reset_index(), values='Description', names='index',color_discrete_map={'Bar':'blue', 'Grab & Go':'red', 'Coffee':'green', 'Pizza':'purple', 'FastFood':'orange', 'Asian':'turquoise','Restaurant':'pink'}, hole=.5,title='Proportions of different restaurant types at JFK')
+    fig = px.pie(data_frame=rest_5.reset_index(), values='Description', names='index',color_discrete_map={'Bar':'blue', 'Grab & Go':'red', 'Coffee':'green', 'Pizza':'purple', 'FastFood':'orange', 'Asian':'turquoise','Restaurant':'pink'}, hole=.5)
     fig.update_layout(title="Number of Restaurants by Airport")
     return fig
 
